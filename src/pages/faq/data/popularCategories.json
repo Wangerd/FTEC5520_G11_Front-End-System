@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "icon": "diversity_1",
+    "name": "SaaS Service Provider",
+    "intro": "Need to integrate account system."
+  },
+  {
+    "id": 2,
+    "icon": "check_box",
+    "name": "Social/Community Platforms",
+    "intro": "Allow quick login through social media accounts."
+  },
+  {
+    "id": 3,
+    "icon": "tv_signin",
+    "name": "E-commerce Platform",
+    "intro": "Identity verification for docking with electronic payment systems."
+  },
+  {
+    "id": 4,
+    "icon": "page_info",
+    "name": "Banking/FinTech",
+    "intro": "Strict compliance requirements, requiring multiple certifications."
+  },
+  {
+    "id": 5,
+    "icon": "currency_exchange",
+    "name": "Payment Gateway",
+    "intro": "Third party authentication integrated with PCI-DSS standard."
+  },
+  {
+    "id": 6,
+    "icon": "feed",
+    "name": "Mobile/MMO Games",
+    "intro": "Log in through other gaming platform accounts."
+  },
+  {
+    "id": 7,
+    "icon": "content_paste_go",
+    "name": "Streaming Media Services",
+    "intro": "Netflix and other platforms require third-party subscription accounts for authentication."
+  },
+  {
+    "id": 8,
+    "icon": "chart_data",
+    "name": "Industrial IoT",
+    "intro": "Device permissions need to be integrated with the enterprise AD/LDAP system."
+  },
+  {
+    "id": 9,
+    "icon": "manage_accounts",
+    "name": "High Security Scenario",
+    "intro": "Integrate hardware keys (YubiKey) or biometric services."
+  }
+]
